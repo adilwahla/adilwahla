@@ -39,7 +39,7 @@ while(dev.isCoding())
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/adil-rehman158](https://www.linkedin.com/in/adil-rehman158/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="[www.linkedin.com/in/adilRehman](https://www.linkedin.com/in/adil-rehman158/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://dev.to/adilwahla"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
   <a href="https://people.sap.com/adil"><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a> 
   <a href="https://www.instagram.com/adilrehman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
